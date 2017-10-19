@@ -27,7 +27,7 @@ npm install psd-parser
 ```javascript
 
 	var PSD = require('psd-parser');
-	var psd = PSD.parse('./test.psd');
+	var psd = await PSD.parse('./test.psd');
 	console.log(psd)
 	psd.getDescendants() //扁平化的图层数组
 	psd.getTree() //树型结构的图层数组，与psd中结构相符
