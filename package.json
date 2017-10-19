@@ -1,5 +1,5 @@
 {
-  "name": "psd-parser",
+  "name": "o2team-psd-parser",
   "version": "0.1.9",
   "description": "Parse psd and output a json obj",
   "main": "index.js",
@@ -9,13 +9,13 @@
   "dependencies": {
     "iconv-lite": "^0.4.17",
     "jspack": "^0.0.4",
-    "pngjs": "^3.2.0",
-    "parse-engine-data": "^0.1.2"
+    "parse-engine-data": "^0.1.2",
+    "pngjs": "^3.2.0"
   },
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/imgqb/psd-parser.git"
+    "url": "https://github.com/chuyik/psd-parser.git"
   },
   "keywords": [
     "psd",
@@ -24,9 +24,8 @@
   "author": "imgqb",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/imgqb/psd-parser/issues"
+    "url": "https://github.com/chuyik/psd-parser/issues"
   },
-  "homepage": "https://github.com/imgqb/psd-parser",
-  "scripts": {
-  }
+  "homepage": "https://github.com/chuyik/psd-parser",
+  "scripts": {}
 }
