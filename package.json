@@ -12,7 +12,9 @@
     "parse-engine-data": "^0.1.2",
     "pngjs": "^3.2.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "sharp": "^0.20.5"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/chuyik/psd-parser.git"
