@@ -1,5 +1,5 @@
 {
-  "name": "o2team-psd-parser",
+  "name": "@apolkingg8/psd-parser",
   "version": "0.2.0",
   "description": "Parse psd and output a json obj",
   "main": "index.js",
